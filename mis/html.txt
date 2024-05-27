@@ -1,0 +1,22 @@
+<html>
+    <head>
+        <title>000의 웹페이지</title>
+    </head>
+    <body>
+        <h3>자기 소개</h3>
+            이름: 강채은<br>
+            관심분야: 경영정보 <br>
+            희망직업: 데이터 분석 <br>
+         
+         <h3>내가 모은 신문기사</h3>
+             <a href = 'https://zdnet.co.kr/view/?no=20240307032740'  target = '_blank'> ETRI, 절차 생성 AI 벤치마크 기술 첫 개발 </a>
+             <a href = 'https://www.ddaily.co.kr/page/view/2024031517092190025'  target = '_blank'> “데이터 주권을 지켜라”…‘소버린클라우드’가 뭐길래? </a>
+             <a href = 'https://www.newsis.com/view/?id=NISX20240322_0002672073&cID=10406&pID=13100'  target = '_blank'> "인간처럼 사고한다" 차세대 AI 경쟁…'클로드3' VS 'GPT-5' </a>
+             <a href = 'https://www.newsis.com/view/?id=NISX20240330_0002681322&cID=10101&pID=10100'  target = '_blank'> 동영상 생성 인공지능 이어 목소리 생성 인공지능 나왔다  </a>
+             <a href = 'https://www.segye.com/newsView/20240405512033?OutUrl=naver'  target = '_blank'> 원하는 정보 한눈에… 사용자 공감도… ‘로봇집사’ 시대 성큼  </a>
+             <a href = 'https://n.news.naver.com/article/023/0003829904?sid=105'  target = '_blank'> 발달장애인 행동 화면 분석, 시각장애인 안내하는 ‘착한 AI’ </a> 
+             <a href = 'https://n.news.naver.com/article/421/0007508205?sid=101'  target = '_blank'> "위험하고 악취 심한 폐기물 처리, AI와 로봇이 대신해야죠"  </a>
+             <a href = 'https://n.news.naver.com/article/009/0005301790?sid=101'  target = '_blank'> 첨단 로봇으로 진화한 청소기…AI로 1㎝ 장애물 감지 </a>
+             <a href = 'https://n.news.naver.com/article/092/0002331275?sid=105'  target = '_blank'> "수학 가르치고 실시간 통역까지"…오픈AI, 새 챗봇 'GPT-4o' 출시 </a>
+    </body>
+</html>
